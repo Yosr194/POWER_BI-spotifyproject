@@ -20,6 +20,7 @@ This project analyzes personal Spotify listening data to uncover patterns, prefe
 ## 📈 Dashboard Pages & Insights
 
 ### 1. Overview Page
+<img width="1047" height="696" alt="Capture d&#39;écran 2025-11-14 181150" src="https://github.com/user-attachments/assets/db8a5290-e328-4230-8186-16c2e4680c9d" />
 
 
 **Key Components:**
@@ -30,6 +31,7 @@ This project analyzes personal Spotify listening data to uncover patterns, prefe
 - **Time Trends:** Listening evolution from 2015-2024
 
 ### 2. Listening Patterns Page
+<img width="1058" height="706" alt="Capture d&#39;écran 2025-11-14 181819" src="https://github.com/user-attachments/assets/f7146e7f-0915-4e6a-a08b-312b783f60b0" />
 
 
 **Key Visualizations:**
@@ -38,6 +40,7 @@ This project analyzes personal Spotify listening data to uncover patterns, prefe
 - **Peak Hours Identification:** Late evening (8 PM-11 PM) and early morning (12 AM-3 AM) peaks
 
 ### 3. Details Page (Drillthrough)
+<img width="1055" height="705" alt="Capture d&#39;écran 2025-11-14 181827" src="https://github.com/user-attachments/assets/6fa372e2-93fa-4492-937f-d563b81d0ec1" />
 
 
 **Granular Data Table:**
